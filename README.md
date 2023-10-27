@@ -10,9 +10,9 @@ NER_Dataset_Creator.py: this part of the code is stolen from an external source 
 
 Train_Tagged_Titles.tsv: raw data provided by Ebay
 
-train.pkl: training data stored in pickle format
+train.pkl: preprossed training data stored in pickle format
 
-test.pkl: testing data stored in pickle format
+test.pkl: preprossed testing data stored in pickle format
 *****************************************************************************************************************************
 
 
