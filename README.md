@@ -1,5 +1,8 @@
 # Ebay_Machine_Learning_Competition (Co-authors: Tianhao Zhang, Yi Zhou, Xinyue Liu, Zian Song)
 
+Website:
+https://eval.ai/web/challenges/challenge-page/2014/overview
+
 The repository contains scripts developed for Named Entity Recognition NLP Project Hosted by Ebay
 
 
